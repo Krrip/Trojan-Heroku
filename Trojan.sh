@@ -23,9 +23,6 @@ password:
 websocket:
   enabled: true
   path: /
-transport-plugin:
-  enabled: true
-  type: plaintext
 EOF
 
 # Run Trojan-go
